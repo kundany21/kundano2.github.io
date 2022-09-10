@@ -1,1 +1,1 @@
-web: git clone https://github.com/kundano2/shd8a0 && npm install && npm start
+web: git clone https://github.com/kundano2/kundano2.github.io && npm install && npm start
